@@ -1,5 +1,7 @@
 body{
-	background-color: gray;
+	background-color: #00F;
+	font-weight: bold;
+	color: red;
 }
 
 h1{
